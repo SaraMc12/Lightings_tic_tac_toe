@@ -15,16 +15,18 @@ a command line tic tac toe app that is unbeatable
 
 ## Who is Lightning
 
-## Who is this app for
-
+A crazy old drunk of a pirate who got into building apps. He is the second cousin of Jeff Bezos but he doesn't like to admit it cuz he is a jerk
+## Who the heck is Eugene???
+This app is to help with diversity and inclusion amongst our brethren from the sea, Sharks need to be entertained as well so they wont eat people.
+We represent Sharks in our project management tools by creating the character of Eugene, who is a hammer head shark who has prosthetic hands cuz why not.
 ## Principles we work by
 
-1. empathy for the user
+1. Empathy for the user
 
 2. Always useable
 
-3. test driven
+3. Test driven
 
-4. clearly written
+4. Clearly written
 
-5. no fear...not the clothing brand from the 90s
+5. No fear!...not the clothing brand from the 90s
