@@ -3,7 +3,7 @@ a command line tic tac toe app that is unbeatable
 
 ## How to set up the app
 
- Coming soon
+ [Install Rust!](https://doc.rust-lang.org/book/ch01-00-getting-started.html)
 
 ## How to run the tests
 
