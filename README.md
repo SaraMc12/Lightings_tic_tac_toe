@@ -16,9 +16,9 @@ a command line tic tac toe app that is unbeatable
 ## Who is Lightning
 
 A crazy old drunk of a pirate who got into building apps. He is the second cousin of Jeff Bezos but he doesn't like to admit it cuz he is a jerk
-## Who the heck is Eugene???
+## Who the heck is Cyril???
 This app is to help with diversity and inclusion amongst our brethren from the sea, Sharks need to be entertained as well so they wont eat people.
-We represent Sharks in our project management tools by creating the character of Eugene, who is a hammer head shark who has prosthetic hands cuz why not.
+We represent Sharks in our project management tools by creating the character of Cyril, the a hammer head shark who has prosthetic hands cuz why not.
 ## Principles we work by
 
 1. Empathy for the user
