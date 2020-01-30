@@ -1,5 +1,5 @@
 class GoodBye
-    def self.goodbye(name = "Buddy")
-      "bye #{name}!"
+    def self.goodbye(name = "cyril")
+       "goodbye #{name}!"
     end
   end 
