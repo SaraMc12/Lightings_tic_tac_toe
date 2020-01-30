@@ -9,4 +9,3 @@ class HelloWorldTest < Minitest::Test
         arrange = "hello world"
         act = helloWorld.hello arrange
     end
-
